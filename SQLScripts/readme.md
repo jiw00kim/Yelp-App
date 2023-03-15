@@ -1,0 +1,1 @@
+this folder will include your SQL script files for milestone2 (trigger and update SQL statements)
